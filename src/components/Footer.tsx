@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <div className="flex items-center space-x-4">
             <Link
-              href="https://www.instagram.com/your-username" // Replace with your Instagram URL
+              href="https://www.instagram.com/p/DAtqtIRzOgO/?img_index=1" // Replace with your Instagram URL
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-primary transition-colors"
@@ -16,7 +16,7 @@ export default function Footer() {
               <Instagram className="h-6 w-6" />
             </Link>
             <Link
-              href="https://www.meesho.com/your-shop" // Replace with your Meesho URL
+              href="https://www.meesho.com/wwmn5?_ms=3.0.1" // Replace with your Meesho URL
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-primary transition-colors"
@@ -28,14 +28,14 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-4">
             <div className="flex items-center space-x-2">
               <Mail className="h-4 w-4" />
-              <a href="mailto:your-email@example.com" className="hover:text-primary transition-colors">
-                your-email@example.com
+              <a href="mailto:berribucket@gmail.com" className="hover:text-primary transition-colors">
+                berribucket@gmail.com
               </a>
             </div>
             <div className="flex items-center space-x-2">
               <Phone className="h-4 w-4" />
-              <a href="tel:+1234567890" className="hover:text-primary transition-colors">
-                +1234567890
+              <a href="tel:+91-88811 99658" className="hover:text-primary transition-colors">
+                +91-88811 99658
               </a>
             </div>
           </div>

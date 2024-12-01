@@ -11,7 +11,7 @@ export default function Home() {
         We're working hard to bring you something amazing. Stay tuned!
       </p>
       <Button size="lg" className="mb-12">
-        <a href="mailto:your-email@example.com">Contact Us</a>
+        <a href="mailto:berribucket@gmail.com">Contact Us</a>
       </Button>
       
       <div className="w-full max-w-md">
